@@ -5,4 +5,4 @@ CREATE TABLE bears
   gender TEXT,
   COLOR TEXT,
   temperament TEXT,
-  alive BLOB); 
+  alive INTEGER); 
